@@ -1,4 +1,4 @@
-# Duplicate File Finder
+# DuplicateAnalyzer
 The Duplicate File Finder is a Python script that helps you identify and manage duplicate files within a specified folder. It calculates the hash of each file using SHA-256 and detects duplicate files based on their hash values.
 
 ### Features
