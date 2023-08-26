@@ -10,7 +10,7 @@ Option to delete duplicate files.
 Open a terminal and execute the script by providing the required information.
 
 `python duplicateAnalyzerPython.py`
-### Enter Details
+### Enter Details (interactive)
 - Enter the folder path where you want to search for duplicate files.
 - Specify the file type (e.g., .txt, .jpg) to narrow down the search.
 - Choose whether to delete duplicate files (yes/no).
